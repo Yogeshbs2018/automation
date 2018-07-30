@@ -1,0 +1,2 @@
+# automation
+For Nunit automation
